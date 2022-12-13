@@ -15,9 +15,9 @@
   <meta name="resource-type" content="document" />
   <meta http-equiv="content-type" content="text/html; charset=US-ASCII" />
   <meta http-equiv="content-language" content="en-us" />
-  <meta name="author" content="Maks Miliyan" />
-  <meta name="contact" content="miliyan.id" />
-  <meta name="copyright" content="Copyright (c) miliyan.id. All Rights Reserved." />
+  <meta name="author" content="Maks KuroZ Pedia" />
+  <meta name="contact" content="kurozpedia.my.id" />
+  <meta name="copyright" content="Copyright (c) kurozpedia.my.id. All Rights Reserved." />
   <meta name="robots" content="index, nofollow">
 
   <link rel="shortcut icon" type="image/x-icon" href="<?php echo $urlweb; ?>/upload/favicon.png">
