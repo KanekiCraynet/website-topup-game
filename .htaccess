@@ -1,0 +1,22 @@
+Options All -Indexes
+ErrorDocument 404 /404notfound/
+<files .htaccess>
+order allow,deny
+deny from all
+</files>
+<files koneksi.php>
+order allow,deny
+deny from all
+</files>
+<IfModule mod_rewrite.c>
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^game/([a-zA-Z0-9_-]+)/$ order.php?cat=$1 [L]
+RewriteRule ^pulsa/([a-zA-Z0-9_-]+)/$ pulsa.php?cat=$1 [L]
+RewriteRule ^emoney/([a-zA-Z0-9_-]+)/$ emoney.php?cat=$1 [L]
+RewriteRule ^social/([a-zA-Z0-9_-]+)/$ social.php?cat=$1 [L]
+RewriteRule ^viewpost/([a-zA-Z0-9_-]+)/$ viewpost.php?slug=$1 [L]
+RewriteRule ^page/([a-zA-Z0-9_-]+)/$ page.php?slug=$1 [L]
+RewriteRule ^([a-zA-Z0-9_-]+)/$ $1.php [L]
+</ifModule>
+
