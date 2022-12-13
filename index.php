@@ -33,9 +33,9 @@ $stat = mysqli_query($conn,"INSERT INTO `tb_stat` (`ip`, `date`, `hits`, `page`,
   <meta name="resource-type" content="document" />
   <meta http-equiv="content-type" content="text/html; charset=US-ASCII" />
   <meta http-equiv="content-language" content="en-us" />
-  <meta name="author" content="Maks Miliyan" />
-  <meta name="contact" content="Miliyan.id" />
-  <meta name="copyright" content="Copyright (c) Miliyan.id. All Rights Reserved." />
+  <meta name="author" content="KanekiCraynet " />
+  <meta name="contact" content="kurozpedia.my.id" />
+  <meta name="copyright" content="Copyright (c) kurozpedia.my.id. All Rights Reserved." />
   <meta name="robots" content="index, nofollow">
 
   <link rel="shortcut icon" type="image/x-icon" href="<?php echo $urlweb; ?>/upload/<?php echo $s0['image']; ?>">
