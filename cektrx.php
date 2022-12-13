@@ -310,11 +310,11 @@ $s5 = mysqli_fetch_array($sql_5);
                         if($hasil['result'] == 1){
                           $order_status = $hasil['data'][0]['status'];
                           $order_note = $hasil['data'][0]['note'];
-                        }
+                      }
                         else if($hasil['result'] == 0){
                           $order_status = 'failed';
                           $order_note = $hasil['message'];
-                        }
+                      }
                   ?>
                   <hr style="background-color: #b8b8b8; opacity: .5;">
                   <div class="row">
