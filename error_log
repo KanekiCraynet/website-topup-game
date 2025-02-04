@@ -1,0 +1,11 @@
+[29-Aug-2023 16:16:55 Asia/Jakarta] PHP Fatal error:  Cannot declare class App\Controllers\Provider, because the name is already in use in /home/mentari3/xgames.xosgames.com/xos/app/Controllers/Admin/Provider.php on line 8
+[29-Aug-2023 16:18:09 Asia/Jakarta] PHP Fatal error:  Cannot declare class App\Controllers\DataProvider, because the name is already in use in /home/mentari3/xgames.xosgames.com/xos/app/Controllers/Admin/Provider.php on line 8
+[30-Aug-2023 12:19:34 Asia/Jakarta] PHP Fatal error:  Cannot declare class App\Controllers\DataProvider, because the name is already in use in /home/mentari3/xgames.xosgames.com/xos/app/Controllers/Admin/Provider.php on line 8
+[30-Aug-2023 12:19:43 Asia/Jakarta] PHP Fatal error:  Cannot declare class App\Controllers\DataProvider, because the name is already in use in /home/mentari3/xgames.xosgames.com/xos/app/Controllers/Admin/Provider.php on line 8
+[04-Sep-2023 15:50:37 Asia/Jakarta] PHP Fatal error:  Cannot redeclare App\Controllers\Medan::status() in /home/mentari3/xgames.xosgames.com/xos/app/Controllers/Medan.php on line 127
+[04-Sep-2023 15:50:40 Asia/Jakarta] PHP Fatal error:  Cannot redeclare App\Controllers\Medan::status() in /home/mentari3/xgames.xosgames.com/xos/app/Controllers/Medan.php on line 127
+[04-Sep-2023 15:57:56 Asia/Jakarta] PHP Fatal error:  Cannot redeclare App\Controllers\Medan::refill_status() in /home/mentari3/xgames.xosgames.com/xos/app/Controllers/Medan.php on line 199
+[20-Nov-2023 16:26:01 Asia/Jakarta] PHP Fatal error:  Cannot declare class App\Controllers\DataProvider, because the name is already in use in /home/multipa3/public_html/xos/app/Controllers/Admin/Provider.php on line 0
+[20-Nov-2023 16:26:11 Asia/Jakarta] PHP Fatal error:  Cannot declare class App\Controllers\DataProvider, because the name is already in use in /home/multipa3/public_html/xos/app/Controllers/Admin/Provider.php on line 0
+[20-Nov-2023 16:26:16 Asia/Jakarta] PHP Fatal error:  Cannot declare class App\Controllers\DataProvider, because the name is already in use in /home/multipa3/public_html/xos/app/Controllers/Admin/Provider.php on line 0
+[20-Nov-2023 16:26:20 Asia/Jakarta] PHP Fatal error:  Cannot declare class App\Controllers\DataProvider, because the name is already in use in /home/multipa3/public_html/xos/app/Controllers/Admin/Provider.php on line 0
